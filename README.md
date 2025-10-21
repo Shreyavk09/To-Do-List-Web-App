@@ -19,9 +19,9 @@ A simple, interactive To-Do List built using **HTML, CSS, and Vanilla JavaScript
 3. Right-click → “Open with Live Server”.
 
    ## 📸 Preview
-![Landing Page Screenshot](./screenshot/1.png)
-![Added list Screenshot](./screenshot/2.png)
-![marked list Screenshot](./screenshot/3.png)
+![Landing Page Screenshot](./screenshots/1.png)
+![Added list Screenshot](./screenshots/2.png)
+![marked list Screenshot](./screenshots/3.png)
 
 ---
 
