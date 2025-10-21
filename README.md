@@ -18,6 +18,11 @@ A simple, interactive To-Do List built using **HTML, CSS, and Vanilla JavaScript
 2. Open `index.html` in VS Code.
 3. Right-click → “Open with Live Server”.
 
+   ## 📸 Preview
+![Landing Page Screenshot](./screenshot/1.png)
+![Added list Screenshot](./screenshot/2.png)
+![marked list Screenshot](./screenshot/3.png)
+
 ---
 
 ### Author
